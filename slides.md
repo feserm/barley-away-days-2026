@@ -1,5 +1,5 @@
 ---
-theme: ../slidev-theme-nfdi4plants
+theme: ./themes/slidev-theme-nfdi4plants
 title: FAIR and Square
 info: |
   Slide deck for the Barley Away Days 2026
