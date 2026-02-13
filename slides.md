@@ -16,7 +16,7 @@ addons:
 
 ---
 
-# Why FAIR by Design (2min)
+# Why FAIR by Design
 
 <div class="flex flex-col justify-center items-center">
   <img class="w-1/5" src="/assets/scarytale-undocumented.png"/>
@@ -43,7 +43,7 @@ addons:
 
 ---
 
-# FAIR Principles (2min)
+# FAIR Principles
 
 <div class="flex justify-center"> 
   <img class="w-1/2" src="/assets/FAIR_data_principles.png"/>
@@ -67,7 +67,7 @@ addons:
 
 ---
 
-# ARCs as FAIR Digital Objects (2,5min)
+# ARCs as FAIR Digital Objects
 
 <div class="flex space-x-4">
   <img class="w-1/2" src="/assets/orga-principle-folder2process.png"/>
@@ -95,7 +95,7 @@ layout: two-cols-header
 layoutClass: gap-4
 ---
 
-# FAIR from the get-go (2,5min)
+# FAIR from the get-go
 
 ::left::
 
@@ -131,7 +131,7 @@ layout: two-cols-header
 layoutClass: gap-4
 ---
 
-# How to integrate GridScore (3min)
+# How to integrate GridScore
 
 ::left::
 
@@ -170,7 +170,7 @@ layout: two-cols-header
 layoutClass: gap-4
 ---
 
-# Plant Data Commons (2min)
+# Plant Data Commons
 
 ::left:: 
 
@@ -195,7 +195,7 @@ layoutClass: gap-4
 
 --- 
 
-# Take Home Messages (1min)
+# Take Home Messages
 
 - FAIR RDM doesn't start in the repository, but in the lab
 - Automation and AI readiness aren't just a vision for the future but come from consistently structured data
