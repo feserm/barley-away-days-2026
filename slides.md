@@ -202,7 +202,7 @@ layoutClass: gap-4
 - **Immutable yet evolving**: ARCs can help you tell the story of your research data
 - Links and Repositories:
   - [ISA Wizard](https://github.com/ipk-bit/isa-wizard)
-  - [BrAPI2ARC](https://github.com/ipk-bit/brapi2arc)
+  - [GridScore Integration](https://doi.org/10.5281/zenodo.13740519)
   - [ARC](https://arc-rdm.org)
   - [Plant Data Commons](https://plant-commons.ipk-gatersleben.de)
 
