@@ -1,0 +1,18 @@
+{
+  "name": "2026-02-18-barley_away_days",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.11.1",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-addon-rabbit": "^0.4.0",
+    "slidev-theme-mint": "^0.1.0",
+    "vue": "^3.5.26"
+  }
+}
