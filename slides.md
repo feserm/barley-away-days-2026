@@ -149,8 +149,8 @@ layoutClass: gap-4
 <template #1><img class="w-full border border-black rounded" src="/assets/brapi2arc-co-import.png"/></template>
 <template #2><img class="w-full border border-black rounded" src="/assets/brapi2arc-gridscore-import.png"/></template>
 <template #3><img class="w-full border border-black rounded" src="/assets/brapi2arc-gridscore-scoring.png"/></template>
-<template #4><img class="w-full border border-black rounded" src="/assets/brapi2arc-gridscore-export.png"/></template>
-<!-- <template #5><img class="w-full border border-black rounded" src="/assets/brapi2arc-arc-export.png"/></template> -->
+<template #4><img class="w-full border border-black rounded" src="/assets/brapi2arc-gridscore-detail.png"/></template>
+<template #5><img class="w-full border border-black rounded" src="/assets/brapi2arc-gridscore-export.png"/></template>
 <template #6><img class="w-full border border-black rounded" src="/assets/brapi2arc-datahub-view.png"/></template>
 <template #7><img class="w-full border border-black rounded" src="/assets/brapi2arc-datahub-df.png"/></template>
 </v-switch>
@@ -193,18 +193,29 @@ layoutClass: gap-4
 - Transition to conclusion: Let's summarize the key ideas once again to conclude.
  -->
 
---- 
+---
 
 # Take Home Messages
 
-- FAIR RDM doesn't start in the repository, but in the lab
-- Automation and AI readiness aren't just a vision for the future but come from consistently structured data
-- **Immutable yet evolving**: ARCs can help you tell the story of your research data
+
+1. FAIR RDM doesn't start in the repository, but in the lab
+1. Automation and AI readiness aren't just a vision for the future but come from consistently structured data
+1. **Immutable yet evolving**: ARCs can help you tell the story of your research data
+
+<div class="flex justify-between mt-8">
+
+<div>
+
 - Links and Repositories:
   - [ISA Wizard](https://github.com/ipk-bit/isa-wizard)
   - [GridScore Integration](https://doi.org/10.5281/zenodo.13740519)
   - [ARC](https://arc-rdm.org)
   - [Plant Data Commons](https://plant-commons.ipk-gatersleben.de)
+
+</div>
+
+<img class="w-1/2" src="/assets/git-fairification.png"/>
+</div>
 
 <!-- 
 - Key messages: FAIR data management doesn't start in the archive, but in the lab. Automation and AI readiness aren't just a vision for the future—they come from consistently structured data.
@@ -243,12 +254,9 @@ layoutClass: gap-4
 </div>
 </div>
 
-<div class="mt-8 flex justify-center items-center">
-  <img class="w-1/3" src="/assets/dfg-funded.png">
-  <img class="w-1/3" src="/assets/NFDI_4_Biodiversity___Logo_Positiv_Kopie.png"/>
-  <img class="w-1/3" src="/assets/dataplant.png"/>
+<div class="mt-8 grid grid-cols-2 items-center">
+  <img class="w-1/2" src="/assets/dfg-funded.png">
+  <img class="w-1/2" src="/assets/nfdi_rgb_Wortmarke_Zusatz_quer.png" />
+  <img class="w-1/2" src="/assets/NFDI_4_Biodiversity___Logo_Positiv_Kopie.png"/>
+  <img class="w-1/2" src="/assets/dataplant.png"/>
 </div>
-
----
-layout: end
----
